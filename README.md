@@ -2,6 +2,7 @@
 *I am adding the link in the readme file since my Model - best_fire_detection_model.pkl file is 460.1 MB. Any file larger than 25 MB is not accepted in the Github *without LFS. 
 
 *Link for the Model: https://drive.google.com/file/d/18ivde5OVKfKSZqwq7KKX1BpuGHklJZYy/view?usp=sharing
+
 #Classification of Fire Types in India Using MODIS Satellite Data (2021–2023)
 *India witnesses various types of fire incidents annually, including forest fires, agricultural burning, volcanic activity, and other thermal anomalies. Accurate *identification of fire sources is crucial for timely disaster response, environmental monitoring, and resource management. The MODIS sensors aboard NASA’s Terra *and Aqua satellites provide reliable, near real-time thermal anomaly data globally, including for India.
 
